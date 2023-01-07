@@ -1,1 +1,1 @@
-# Aprendendo Svelte
+# Aprendiendo Svelte
