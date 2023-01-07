@@ -6,3 +6,6 @@
   `npx gh-pages -d dist`
   or
   `npm run deploy`
+
+- Using Vitetest
+  `npm install --save-dev vitest @testing-library/svelte happy-dom`
