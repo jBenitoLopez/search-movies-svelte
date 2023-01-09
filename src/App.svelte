@@ -1,6 +1,7 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
+  // import ExampleFragment from "./ExampleFragment.svelte";
   // import ExampleCard1 from "./ExampleCard1.svelte";
   // import ExampleButton1 from "./ExampleButton1.svelte";
 
@@ -56,3 +57,5 @@
 <ExampleButton1 /> -->
 <!-- <hr />
 <ExampleCard1 /> -->
+<!-- <hr />
+<ExampleFragment /> -->
