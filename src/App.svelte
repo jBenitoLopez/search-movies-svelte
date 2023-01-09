@@ -1,6 +1,9 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
+  import ExampleCicloVidaComponente from "./ExampleCicloVidaComponente.svelte";
+  // import ExampleOnMount from "./ExampleOnMount.svelte";
+  import ExampleAfterUpdate from "./ExampleAfterUpdate.svelte";
   // import ExampleFragment from "./ExampleFragment.svelte";
   // import ExampleCard1 from "./ExampleCard1.svelte";
   // import ExampleButton1 from "./ExampleButton1.svelte";
@@ -53,9 +56,10 @@
   {/await}
 </main>
 
-<!-- <hr />
-<ExampleButton1 /> -->
-<!-- <hr />
-<ExampleCard1 /> -->
-<!-- <hr />
-<ExampleFragment /> -->
+<!-- <ExampleButton1 />  -->
+<!-- <ExampleCard1 />  -->
+<!-- <ExampleFragment />  -->
+<!-- <ExampleOnMount />  -->
+<ExampleAfterUpdate />
+
+<!-- <ExampleCicloVidaComponente />  -->
