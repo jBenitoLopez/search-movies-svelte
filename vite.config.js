@@ -6,7 +6,8 @@ export default defineConfig({
   plugins: [
     svelte({ hot: !process.env.VITEST }),
   ],
-  base: '/search-movies-svelte/',
+  // base: '/search-movies-svelte/',
+  base: '',
   test: {
     globals: true,
     environment: 'happy-dom'
