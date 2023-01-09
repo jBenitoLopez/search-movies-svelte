@@ -1,6 +1,9 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
+  import ExampleStoreReadable from "./ExampleStoreReadable.svelte";
+  // import ExampleStoreSimple from "./ExampleStoreSimple.svelte";
+  // import ExampleStore from "./ExampleStore.svelte";
   // import ExampleOnDestroyFocus from "./ExampleOnDestroyFocus.svelte";
   // import ExampleOnDestroyInterval from "./ExampleOnDestroyInterval.svelte";
   // import ExampleOnDestroyEventListener from "./ExampleOnDestroyEventListener.svelte";
@@ -66,3 +69,6 @@
 <!-- <ExampleOnDestroyInterval /> -->
 <!-- <ExampleOnDestroyEventListener /> -->
 <!-- <ExampleOnDestroyFocus /> -->
+<!-- <ExampleStore /> -->
+<!-- <ExampleStoreSimple /> -->
+<ExampleStoreReadable />
