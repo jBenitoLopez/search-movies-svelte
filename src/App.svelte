@@ -2,6 +2,7 @@
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
   import ExampleOnDestroyInterval from "./ExampleOnDestroyInterval.svelte";
+  import ExampleOnDestroyEventListener from "./ExampleOnDestroyEventListener.svelte";
   // import ExampleOnMount from "./ExampleOnMount.svelte";
   // import ExampleAfterUpdate from "./ExampleAfterUpdate.svelte";
   // import ExampleFragment from "./ExampleFragment.svelte";
@@ -62,3 +63,4 @@
 <!-- <ExampleOnMount />  -->
 <!-- <ExampleAfterUpdate /> -->
 <!-- <ExampleOnDestroyInterval /> -->
+<ExampleOnDestroyEventListener />
