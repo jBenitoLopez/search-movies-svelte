@@ -1,6 +1,8 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
+  // import ExampleCard1 from "./ExampleCard1.svelte";
+  // import ExampleButton1 from "./ExampleButton1.svelte";
 
   const API_URL = "https://www.omdbapi.com/?apikey=39b5df46";
 
@@ -49,3 +51,8 @@
     <Movies {movies} />
   {/await}
 </main>
+
+<!-- <hr />
+<ExampleButton1 /> -->
+<!-- <hr />
+<ExampleCard1 /> -->
