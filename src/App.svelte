@@ -1,9 +1,9 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
-  import ExampleCicloVidaComponente from "./ExampleCicloVidaComponente.svelte";
+  import ExampleOnDestroyInterval from "./ExampleOnDestroyInterval.svelte";
   // import ExampleOnMount from "./ExampleOnMount.svelte";
-  import ExampleAfterUpdate from "./ExampleAfterUpdate.svelte";
+  // import ExampleAfterUpdate from "./ExampleAfterUpdate.svelte";
   // import ExampleFragment from "./ExampleFragment.svelte";
   // import ExampleCard1 from "./ExampleCard1.svelte";
   // import ExampleButton1 from "./ExampleButton1.svelte";
@@ -60,6 +60,5 @@
 <!-- <ExampleCard1 />  -->
 <!-- <ExampleFragment />  -->
 <!-- <ExampleOnMount />  -->
-<ExampleAfterUpdate />
-
-<!-- <ExampleCicloVidaComponente />  -->
+<!-- <ExampleAfterUpdate /> -->
+<!-- <ExampleOnDestroyInterval /> -->
