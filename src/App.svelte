@@ -1,7 +1,7 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
-  import ExampleStoreReadable from "./ExampleStoreReadable.svelte";
+  // import ExampleStoreReadable from "./ExampleStoreReadable.svelte";
   // import ExampleStoreSimple from "./ExampleStoreSimple.svelte";
   // import ExampleStore from "./ExampleStore.svelte";
   // import ExampleOnDestroyFocus from "./ExampleOnDestroyFocus.svelte";
@@ -71,4 +71,4 @@
 <!-- <ExampleOnDestroyFocus /> -->
 <!-- <ExampleStore /> -->
 <!-- <ExampleStoreSimple /> -->
-<ExampleStoreReadable />
+<!-- <ExampleStoreReadable /> -->
