@@ -1,7 +1,8 @@
 <script>
   import Search from "./lib/Search.svelte";
   import Movies from "./lib/Movies.svelte";
-  import ExampleTransitionVisible2 from "./ExampleTransitionVisible2.svelte";
+  // import ExapleTransitionEvents from "./ExapleTransitionEvents.svelte";
+  // import ExampleTransitionVisible2 from "./ExampleTransitionVisible2.svelte";
   // import ExampleStoreSimple2 from "./ExampleStoreSimple2.svelte";
   // import ExampleTransitionsVisible from "./ExampleTransitionsVisible.svelte";
   // import ExampleStoreReadable from "./ExampleStoreReadable.svelte";
@@ -76,4 +77,5 @@
 <!-- <ExampleStoreSimple /> -->
 <!-- <ExampleStoreReadable /> -->
 <!-- <ExampleTransitionsVisible /> -->
-<ExampleTransitionVisible2 />
+<!-- <ExampleTransitionVisible2 /> -->
+<!-- <ExapleTransitionEvents /> -->
